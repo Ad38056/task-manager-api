@@ -1,11 +1,16 @@
-# Python Projects for Beginners
+# 3-Mini-Python-Projects-For-Intermediates
+3 Mini Python Projects For Intermediate Programmers!
 
-This repository contains all the code examples and projects from the *Python Projects for Beginners* course. Each project is designed to help you sharpen your problem-solving skills and reinforce your understanding of Python.
 
-To get started, you can check out the first hour on my YouTube channel or dive even deeper with the complete course on my website.
+# 💻 Launch Your Software Development Career Today!  
 
-YouTube Channel:
-https://www.youtube.com/c/programmingwithmosh
+🎓 **No degree? No problem!** My program equips you with everything you need to break into tech and land an entry-level software development role.  
 
-Website:
-https://codewithmosh.com
+🚀 **Why Join?**  
+- 💼 **$70k+ starting salary potential**  
+- 🕐 **Self-paced:** Complete on your own time  
+- 🤑 **Affordable:** Low risk compared to expensive bootcamps or degrees
+- 🎯 **45,000+ job openings** in the market  
+
+👉 **[Start your journey today!](https://techwithtim.net/dev)**  
+No experience needed—just your determination. Future-proof your career and unlock six-figure potential like many of our students have!  
